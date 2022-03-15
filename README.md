@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shadley7" alt="shadley7" /> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shadley7&show_icons=true&theme=dark&count_private=true&exclude_repo=laravel-project,vuejs-laravel-project&hide=php" alt="shadley7" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadley7&langs_count=8&count_private=true)](https://github.com/shadley7/github-readme-stats)
+
 <!--
 **shadley7/shadley7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
