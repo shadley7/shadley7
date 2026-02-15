@@ -30,10 +30,7 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-181717?style=flat-square&logo=gitlab)
 ![GitFlow](https://img.shields.io/badge/-GitFlow-181717?style=flat-square&logo=gitflow)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shadley7&show_icons=true&theme=dark&count_private=true&exclude_repo=laravel-project,vuejs-laravel-project&hide=php" alt="shadley7" /></p>
-
-
-
+<p>&nbsp;<img align="center" src="https://githubcard.com/shadley7.svg?d=yU_7VC7U" alt="shadley7" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadley7" alt="shadley7" /> </p>
 <!--
